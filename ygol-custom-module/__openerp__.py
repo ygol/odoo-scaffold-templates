@@ -3,20 +3,14 @@
 ##############################################################################
 #
 #    Copyright (C) 2016 Ygol InterNetwork - Yves Goldberg
-#    <admin@ygol.com>
-#
-#    
-#    ----------------------------------------------
-#
-#    ----------------------------------------------
+#    ----------------------------------------------------
 #     
-#    ------------------------------------------------
+#    ----------------------------------------------------
 #    langage : Python 2.7
-#    creation date : 02/06/16
-#    modification date: 02/06/16
-#    version : 0.1
+#    creation date : 02/08/16
+#    modification date: 02/08/16
 #    author  : Yves Goldberg <admin@ygol.com>
-##
+#
 ##############################################################################
 
 {
@@ -24,7 +18,7 @@
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        """,
 
     # 'description': put the module description in README.rst
 
@@ -35,7 +29,7 @@
     # Check http://goo.gl/0TfwzD for the full list
     'category': 'Ygol',
     'version': '9.0.1.0.0',
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': [
