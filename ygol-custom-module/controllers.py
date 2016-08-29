@@ -2,8 +2,8 @@
 {%- set model = "%s.%s"|format(mod, mod) -%}
 {%- set root = "/%s/%s"|format(mod, mod) -%}
 # -*- coding: utf-8 -*-
-# Copyright 2016 ACSONE SA/NV (<http://acsone.eu>)
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+# Copyright 2016 Ygol InterNetwork (<http://www.ygol.com>)
+# License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 from openerp import http
 
